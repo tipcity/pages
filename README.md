@@ -1,0 +1,2 @@
+# pages
+Tipcity static assets
