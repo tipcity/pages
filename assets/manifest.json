@@ -1,0 +1,14 @@
+{
+    "name": "Tip City",
+    "short_name": "Tip City",
+    "description": "TipCity - Connect with the game",
+    "icons": [{
+        "src": "favicon.png",
+        "type": "image/png"
+    }],
+    "background_color": "#1d2020",
+    "orientation": "portrait",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#1d2020"
+}
